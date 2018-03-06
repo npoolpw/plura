@@ -2,7 +2,7 @@ var api = "http://ca.npool.pw:10080";
 
 var poolHost = "ca.npool.pw";
 
-var blockExplorer = "http://blockexplorer.pw/plura";
+var blockExplorer = "https://explorer.pluracoin.org";
 
 var cryptonatorWidget = ["BTC-USD", "XMR-USD"];
 
