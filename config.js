@@ -4,7 +4,7 @@ var poolHost = "ca.npool.pw";
 
 var blockExplorer = "https://explorer.pluracoin.org";
 
-var cryptonatorWidget = ["BTC-USD", "XMR-USD"];
+var cryptonatorWidget = ["PLURA-BTC", "BTC-USD"];
 
 var easyminerDownload = "https://github.com/zone117x/cryptonote-easy-miner/releases/";
 
