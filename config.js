@@ -17,6 +17,5 @@ var themeCss = "themes/default-theme.css";
 var networkStat = [
         ["npool.pw/plura", "http://ca.npool.pw:10080"],
         ["plurapool.com", "https://api.plurapool.com"],
-        ["youpool.io/PLURA", "http://47.98.42.223:8110"],
         ["plura.fatpanda.club", "http://54.148.101.99:8015"]
 ];
